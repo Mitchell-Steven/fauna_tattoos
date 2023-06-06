@@ -1,4 +1,5 @@
-#homeDiv1 {
+/*CSS FOR THE HOME PAGE BEGINS HERE*/
+#homeDiv {
     width: 15%;
     float: left;
     padding-left: 30%;
@@ -13,23 +14,20 @@
 
 #homeImg {
     border-radius: 50%;
-    margin-top: 100px;
+    margin-top: 40%;
 }
 
-#aftercareDiv1 {
-    padding-bottom: 1.1%;
-    float: left;
-    width: 33%;
+/*CSS FOR THE AFTERCARE PAGE BEGINS HERE*/
+#afterCareDiv {
+    padding-left: 30%;
 }
 
-#aftercareDiv2 {
-    padding-top: 0.1%;
-    width: 33%;
+#afterCareHeader {
+    text-align: center;
 }
 
-#aftercareDiv3 {
-    float: bottom;
-    float: right;
-    width: 33%;
-    background-color:brown;
+.afterCareText {
+    padding: 4%;
 }
+
+/*CSS FOR THE BOOKING/FAQ PAGE BEGINS HERE*/
