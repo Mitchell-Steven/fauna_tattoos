@@ -1,4 +1,8 @@
 /*CSS FOR THE HOME PAGE BEGINS HERE*/
+#homeBody {
+    background-color:floralwhite;
+}
+
 #homeDiv {
     width: 15%;
     float: left;
@@ -31,3 +35,15 @@
 }
 
 /*CSS FOR THE BOOKING/FAQ PAGE BEGINS HERE*/
+
+/*CSS FOR THE TATTOOS PORTFOLIO PAGE BEGINS HERE*/
+.portfolioImages {
+    width:  33%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+/*CSS FOR THE NEWSLETTER SIGN UP PAGE BEGINS HERE*/
+#emailLabel {
+    color: red;
+}
