@@ -47,3 +47,21 @@
 #emailLabel {
     color: red;
 }
+
+/*CSS FOR THE SCULPTURES PAGE BEGINS HERE*/
+.sculptureImages {
+    width: 33%;
+}
+
+/*CSS FOR THE TRADITIONAL AFTERCARE PAGE BEGINS HERE*/
+#trdAftercareDiv1 {
+    float: left;
+    padding-left: 11%;
+    padding-right: 0%;
+}
+
+#trdAftercareDiv2 {
+    float: left;
+    padding-left: 10%;
+    padding-right: 0%;
+}
